@@ -19,7 +19,7 @@ Line numbers for easy navigation.
 Offline support, making it easy to use even when you don't have an internet connection.
 Usage
 JATE text editor is easy to use. Simply open the editor in your browser and start typing. 
-#Deployed
+# Deployed
 https://obscure-eyrie-14599.herokuapp.com/
 
 # Contributing
